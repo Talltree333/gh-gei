@@ -127,3 +127,5 @@ When creating a PR the template will prompt you to confirm that you have done a 
 4. Most PR's should be linked to one or more relevant issues that they implement.
 
 For more info on how to get started contributing code see [this doc](docs/ContributingCode.md).
+
+Contribution guide refined by `taltr33322`.
